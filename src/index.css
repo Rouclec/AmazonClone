@@ -1,6 +1,9 @@
 *{
   margin : 0;
 }
+button{
+  cursor: pointer;
+}
 
 body {
   margin: 0;
